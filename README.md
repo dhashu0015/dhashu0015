@@ -9,13 +9,3 @@ dhashu0015/dhashu0015 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-Important courses, links, books etc
-
-
-Python Libraries
-
-NumPy
-http://jalammar.github.io/visual-numpy/
-https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
